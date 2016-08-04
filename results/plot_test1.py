@@ -5,10 +5,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FormatStrFormatter
-from os.path import join
-import os
-import scipy
-# import seaborn
 
 
 def main():
@@ -18,7 +14,6 @@ def main():
 
     # TODO(BM) plot the predicted noise..
 
-    # seaborn.set_style('ticks')
     opts = dict(marker='.', ms=10)
     fig, (ax1, ax2) = plt.subplots(figsize=(8, 8), nrows=2, sharex=False)
     fig.subplots_adjust(left=0.125, bottom=0.1, right=0.95, top=0.95,
