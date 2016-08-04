@@ -1,0 +1,16 @@
+#
+# System temperatures
+# Provided by Eloy de Lara Acedo [email: eloy@mrao.cam.ac.uk]
+# For use with CST element patterns found with the starfish_3.tm SKA LFAA
+# configuration.
+#
+# Frequencies [GHz], Tsys [K]
+0.0500 4.0409e3
+0.0700 1.5029e3
+0.1100 0.6676e3
+0.1700 0.2936e3
+0.2500 0.1402e3
+0.3500 0.0873e3
+0.4500 0.0689e3
+0.5500 0.0607e3
+0.6500 0.0613e3

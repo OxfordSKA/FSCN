@@ -1,0 +1,16 @@
+#
+# Element pattern effective areas, including frequency
+# Provided by Eloy de Lara Acedo [email: eloy@mrao.cam.ac.uk]
+# For use with CST element patterns found with the starfish_3.tm SKA LFAA
+# configuration.
+#
+# Frequencies [GHz], A_eff [m^2]
+0.0500 1.8791
+0.0700 1.8791
+0.1100 1.8694
+0.1700 1.3193
+0.2500 0.6080
+0.3500 0.2956
+0.4500 0.2046
+0.5500 0.1384
+0.6500 0.0792
